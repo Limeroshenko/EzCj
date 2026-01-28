@@ -26,9 +26,7 @@ https://limeroshenko.blogspot.com/2026/01/v2.html
 
 ①xcin倉頡表格：收錄BIG5及7個倚天字（這是「倉頡的事實標準」，倚天中文系統是這張表格，windows的倉頡繼承倚天、xcin也是）。
 
-②全字庫倉頡（2026年1月版）
-
-請務必詳閱：政府資料開放授權條款：https://data.gov.tw/license 
+②全字庫倉頡（2026年1月版） 
 
 # 表格內容：
 
@@ -75,3 +73,11 @@ https://limeroshenko.blogspot.com/2026/01/v2.html
 「詞庫轉換工具」
 
 你新增詞庫時不用自己key，用轉換的就好。
+
+# 「全字庫倉頡」的顯名聲明：
+
+編碼資料來源為「數位發展部 CNS11643 中文標準交換碼全字庫網站 (https://www.cns11643.gov.tw)」[2026-01-11 20:49] [全字庫屬性資料集對照表]https://data.gov.tw/dataset/5961
+
+此開放資料依政府資料開放授權條款 (Open Government Data License) 進行公眾釋出，使用者於遵守本條款各項規定之前提下，得利用之。
+
+請務必詳閱：政府資料開放授權條款：https://data.gov.tw/license 
