@@ -1,3 +1,5 @@
+https://limeroshenko.blogspot.com/2026/01/v2.html
+
 # 詞庫規則：
 
 2字詞：①首尾②首尾
