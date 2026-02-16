@@ -44,7 +44,7 @@ https://limeroshenko.blogspot.com/2025/05/blog-post.html
 
 # 資料內容
 
-## 散彈倉頡（復刻版）/cnscj.cin
+## 散彈倉頡（復刻版）
 
 ☞這是復刻版的散彈倉頡.cin檔，適用於gcin。
 
