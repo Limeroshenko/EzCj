@@ -37,10 +37,7 @@
 %ename EZCJv2
 %cname 散彈倉頡v2
 %selkey 123456789
-%endkey ,./[];
-%space_style 4
-%flag_disp_full_match
-%flag_vertical_selection
+%endkey ,./[];'
 %keyname begin
 a	日
 b	月
